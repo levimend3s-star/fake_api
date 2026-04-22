@@ -1,0 +1,28 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"Ensino Médio integrado ao técnico em período integral (M-Tec-PI)",
+            "disciplinas":["Desenvolvimento de Sistemas"],
+            "carga-horaria":3600
+        },
+        {
+            "id":2,
+            "nome":"Ensino Médio integrado ao técnico (M-Tec)",
+            "disciplinas":["Desenvolvimento de Sistemas"],
+            "carga-horaria":1200
+        },
+        {
+            "id":3,
+            "nome":"Ensino Médio integrado ao técnico no período noturno (M-Tec-N)",
+            "disciplinas":["Informática, Informática para Internet"],
+            "carga-horaria":3600
+        },
+        {
+            "id":4,
+            "nome":"Cursos Técnicos - Modalidade Presencial",
+            "disciplinas":["Desenvolvimento de Sistemas"],
+            "carga-horaria":1200
+        }
+    ]
+}
