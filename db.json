@@ -24,5 +24,11 @@
             "disciplinas":["Desenvolvimento de Sistemas"],
             "carga-horaria":1200
         }
+    ],
+    "professores":[
+        {"id":1, "nome": "Alícia Stefany"},
+        {"id":2, "nome": "Daniel Rondini"},
+        {"id":3, "nome": "Rodolfo Votto"},
+        {"id":4, "nome": "Heliene Dunga"}
     ]
 }
